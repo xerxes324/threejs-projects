@@ -1,1 +1,1 @@
-# threejs-template
+## Rotating icosahedron made with three.js
